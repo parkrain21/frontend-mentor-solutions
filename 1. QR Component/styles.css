@@ -1,0 +1,52 @@
+/* Globals */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Outfit', sans-serif;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.site-container {
+    background: #d5e1ef;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* QR Container */
+.qr-container {
+    background: white; 
+    border-radius: 16px;
+    height: 475px;
+    width: 290px;
+    padding: 16px 16px 8px;
+}
+
+.qr-container h2 {
+    font-size: 23px;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+}
+
+.qr-container p {
+    font-size: 15px;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+    margin: 20px 16px;
+}
+
+.qr-image {
+    height: 290px;
+    width: 290px;
+    margin-bottom: 20px;
+    border-radius: 16px;
+    background: #2b7dfa url("./images/image-qr-code.png") no-repeat;
+    background-size: cover;
+}
