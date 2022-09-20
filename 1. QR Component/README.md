@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Full](./screenshots/screenshot1.png)
-![Narrow](./screenshots/screenshot2.png)
+![Full](https://github.com/parkrain21/frontend-mentor-solutions/blob/main/1.%20QR%20Component/screenshots/screenshot1.PNG)
+![Narrow](https://github.com/parkrain21/frontend-mentor-solutions/blob/main/1.%20QR%20Component/screenshots/screenshot2.PNG)
 
 
 ### Links
