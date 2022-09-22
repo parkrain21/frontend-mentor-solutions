@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/parkrain21/frontend-mentor-solutions/tree/main/1.%20QR%20Component)
+- Solution URL: [Github Page](https://github.com/parkrain21/frontend-mentor-solutions/tree/main/1.%20QR%20Component)
 
 ## My process
 1. Created 3 divs:
