@@ -16,13 +16,13 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Screenshot
 
-![Desktop]()
-![Mobile]()
+![Desktop](https://github.com/parkrain21/frontend-mentor-solutions/blob/2-huddle-landing-page/2.%20Huddle%20Landing%20Page/screenshots/desktop-size.PNG)
+![Mobile](https://github.com/parkrain21/frontend-mentor-solutions/blob/2-huddle-landing-page/2.%20Huddle%20Landing%20Page/screenshots/mobile-size.PNG)
 
 
 ### Links
 
-- Solution URL: [Github Page]()
+- Solution URL: [Github Page](https://github.com/parkrain21/frontend-mentor-solutions/tree/2-huddle-landing-page/2.%20Huddle%20Landing%20Page)
 
 ## My process
 1. I opted for a mobile-first approach. While it was hard, it was very satisfying.
